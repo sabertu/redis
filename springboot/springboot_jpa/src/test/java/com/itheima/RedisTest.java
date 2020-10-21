@@ -39,4 +39,8 @@ public class RedisTest {
         //4.将数据在控制台打印
         System.out.println(userListJson);
     }
+    @Test
+    public void testGit(){
+        System.out.println("git");
+    }
 }
