@@ -42,5 +42,6 @@ public class RedisTest {
     @Test
     public void testGit(){
         System.out.println("git");
+        System.out.println("hello test");
     }
 }
